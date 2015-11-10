@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #《Python自动化运维：技术与最佳实践》附带示例及案例源码
 
 ##第十三章 目录说明
@@ -14,3 +15,7 @@
 * weibo: [@yorkoliu](http://weibo.com/u/1775431677)
 * blog: [blog.liuts.com](http://blog.liuts.com)
 * 微信号：yorkoliu
+=======
+# autoadmin
+autoadmin
+>>>>>>> 0e17b773831453f97f288635fda4de4186327147
